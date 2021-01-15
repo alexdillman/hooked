@@ -1,3 +1,3 @@
 # hooked
 
-Fish.
+Fishing game.
